@@ -1,1 +1,6 @@
-E:\WorkSpace\C#\C# in Depth 3rd\LearnCSharp\OtherChapters\Chapter01\bin\Debug\Chapter01.exe.config
+e:\WorkSpace\C#\C# in Depth 3rd\LearnCSharp\OtherChapters\Chapter01\bin\Debug\Chapter01.exe.config
+e:\WorkSpace\C#\C# in Depth 3rd\LearnCSharp\OtherChapters\Chapter01\bin\Debug\Chapter01.exe
+e:\WorkSpace\C#\C# in Depth 3rd\LearnCSharp\OtherChapters\Chapter01\bin\Debug\Chapter01.pdb
+e:\WorkSpace\C#\C# in Depth 3rd\LearnCSharp\OtherChapters\Chapter01\obj\Debug\Chapter01.csprojResolveAssemblyReference.cache
+e:\WorkSpace\C#\C# in Depth 3rd\LearnCSharp\OtherChapters\Chapter01\obj\Debug\Chapter01.exe
+e:\WorkSpace\C#\C# in Depth 3rd\LearnCSharp\OtherChapters\Chapter01\obj\Debug\Chapter01.pdb
